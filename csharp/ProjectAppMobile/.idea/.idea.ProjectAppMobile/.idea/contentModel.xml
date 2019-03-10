@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\tukan\.Rider2018.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\tukan\.Rider2018.3\system\resharper-host\local\Transient\ReSharperHost\v183\SolutionCaches\_ProjectAppMobile.-1626993731.00" t="ExcludeRecursive" />
+    <e p="E:\Android\android-sdk\platforms\android-28\data\res" t="IncludeRecursive" />
+    <e p="E:\Android\android-sdk\sources\android-28" t="IncludeRecursive" />
+    <e p="E:\GitHub\ProjectApp\csharp\ProjectAppMobile" t="IncludeFlat">
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="ProjectAppMobile\ProjectAppMobile" t="IncludeRecursive">
+        <e p="MyClass.cs" t="Include" />
+        <e p="ProjectAppMobile.projitems" t="Include" />
+        <e p="ProjectAppMobile.shproj" t="IncludeRecursive" />
+      </e>
+      <e p="ProjectAppMobile\ProjectAppMobile.Android" t="IncludeRecursive">
+        <e p="Assets" t="Include">
+          <e p="AboutAssets.txt" t="Include" />
+        </e>
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="MainActivity.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="ProjectAppMobile.Android.csproj" t="IncludeRecursive" />
+        <e p="Properties" t="Include">
+          <e p="AndroidManifest.xml" t="Include" />
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="Resources" t="Include">
+          <e p="AboutResources.txt" t="Include" />
+          <e p="layout" t="Include">
+            <e p="Main.axml" t="Include" />
+          </e>
+          <e p="Resource.designer.cs" t="Include" />
+          <e p="values" t="Include">
+            <e p="Strings.xml" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="ProjectAppMobile\ProjectAppMobile.iOS" t="IncludeRecursive">
+        <e p="AppDelegate.cs" t="Include" />
+        <e p="Assets.xcassets" t="Include">
+          <e p="AppIcon.appiconset" t="Include">
+            <e p="Contents.json" t="Include" />
+          </e>
+          <e p="Contents.json" t="Include" />
+        </e>
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Entitlements.plist" t="Include" />
+        <e p="Info.plist" t="Include" />
+        <e p="LaunchScreen.storyboard" t="Include" />
+        <e p="Main.cs" t="Include" />
+        <e p="Main.storyboard" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="ProjectAppMobile.iOS.csproj" t="IncludeRecursive" />
+        <e p="Resources" t="Include" />
+        <e p="ViewController.cs" t="Include" />
+        <e p="ViewController.designer.cs" t="Include" />
+      </e>
+      <e p="ProjectAppMobile.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
