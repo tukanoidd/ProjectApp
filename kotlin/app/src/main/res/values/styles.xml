@@ -1,0 +1,19 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    
+    <style name="StartBtn" parent="Widget.AppCompat.Button">
+        <item name="android:background">@drawable/rounded_shape</item>
+    </style>
+
+    <style name="listBtn" parent="Widget.AppCompat.Button">
+        <item name="android:colorBackground">@color/white</item>
+    </style>
+
+</resources>

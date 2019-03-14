@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="colorStartBtn">#A9A9A9</color>
+
+    <color name="white">#FFFFFF</color>
+
+    <color name="mercuryBtn">#BE9F81</color>
+    <color name="venusBtn">#FDCE37</color>
+    <color name="earthBtn">#A6D16E</color>
+    <color name="marsBtn">#EAAB3B</color>
+    <color name="jupiterBtn">#FFFF00</color>
+    <color name="saturnBtn">#EAAB3B</color>
+    <color name="uranusBtn">#8DD3D3</color>
+    <color name="neptuneBtn">#78DCFF</color>
+    <color name="quizBtnTextColor">#848484</color>
+
+    <color name="listColor">@color/colorStartBtn</color>
+    <color name="mercuryList">#9E8066</color>
+    <color name="venusList">#E7BB35</color>
+    <color name="earthList">#A6D16E</color>
+    <color name="marsList">#F2BD53</color>
+    <color name="jupiterList">#EDE718</color>
+    <color name="saturnList">#E05329</color>
+    <color name="uranusList">#11CCCC</color>
+    <color name="neptuneList">#51C2F4</color>
+
+</resources>

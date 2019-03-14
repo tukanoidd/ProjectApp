@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ProjectApp</string>
+    <string name="start_menu_text">Spacer Quiz</string>
+    <string name="start_btn_text">Start</string>
+</resources>
