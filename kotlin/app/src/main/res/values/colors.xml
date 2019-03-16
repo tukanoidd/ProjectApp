@@ -18,7 +18,6 @@
     <color name="neptuneBtn">#78DCFF</color>
     <color name="quizBtnTextColor">#848484</color>
 
-    <color name="listColor">@color/colorStartBtn</color>
     <color name="mercuryList">#9E8066</color>
     <color name="venusList">#E7BB35</color>
     <color name="earthList">#A6D16E</color>
