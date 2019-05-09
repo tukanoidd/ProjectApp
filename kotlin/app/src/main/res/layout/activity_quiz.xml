@@ -22,7 +22,7 @@
 
     <ImageView
             android:layout_width="match_parent"
-            android:layout_height="309dp"
+            android:layout_height="250dp"
             tools:srcCompat="@tools:sample/avatars[5]"
             android:id="@+id/planetImage"
             android:contentDescription="Image of a planet"
@@ -35,20 +35,25 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/questionText"
-            android:textSize="50sp"
+            android:textSize="30sp"
             android:gravity="center"
             android:fontFamily="@font/myriadpro_regular"
             android:layout_marginBottom="5dp"/>
 
-    <LinearLayout
-            android:orientation="vertical"
+    <ScrollView
             android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            android:id="@+id/answersList"
-            android:paddingHorizontal="5dp"
-            android:layout_marginHorizontal="30dp"
-            android:layout_marginVertical="20dp"
-            android:paddingVertical="20dp">
-    </LinearLayout>
+            android:layout_height="match_parent">
+
+        <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/answersList"
+                android:paddingHorizontal="5dp"
+                android:layout_marginHorizontal="30dp"
+                android:layout_marginVertical="20dp"
+                android:paddingVertical="20dp">
+        </LinearLayout>
+    </ScrollView>
 
 </LinearLayout>

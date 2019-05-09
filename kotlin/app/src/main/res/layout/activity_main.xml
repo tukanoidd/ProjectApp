@@ -40,4 +40,16 @@
             android:layout_marginEnd="75dp"
             app:layout_constraintEnd_toEndOf="parent"/>
 
+    <ImageView
+            android:layout_width="271dp"
+            android:layout_height="392dp"
+            app:srcCompat="@drawable/spaceman"
+            android:id="@+id/spaceman_img"
+            app:layout_constraintStart_toStartOf="parent"
+            android:layout_marginStart="44dp"
+            app:layout_constraintHorizontal_bias="0.022"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            android:layout_marginTop="168dp"/>
+
 </android.support.constraint.ConstraintLayout>

@@ -15,5 +15,7 @@ class MainActivity : AppCompatActivity() {
         this.requestedOrientation = ActivityInfo.SCREEN_ORIENTATION_PORTRAIT
 
         startQuizBtn.setOnClickListener { startActivity(Intent(this, QuizActivity::class.java)) }
+
+
     }
 }
